@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 [![Boe's GitHub stats](https://github-readme-stats.vercel.app/api?username=boezzz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
